@@ -1,10 +1,8 @@
-# Orcish Meal Planner
 
-![meal-planner](https://github.com/user-attachments/assets/080fca21-92fa-42a8-8e8d-0cfb6feb5863)
 
 ## Overview
 
-The Orcish Meal Planner is an easy-to-use app that helps you create daily meal plans based on the user data.
+The Nutri-AI Meal Planner is an easy-to-use app that helps you create daily meal plans based on the user data.
 
 ## Getting Started
 
